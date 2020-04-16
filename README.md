@@ -8,7 +8,7 @@ Anomaly in data series is detected by comparing the anomalous data series with r
 ## Pictorial Explanation of the algorithm
 ![](Algoritm%20explanation.jpg)
 ## Reults
- ![](Direct%20comparison%20of%20data%20series.jpeg) ![](Anomaly%20index_final.jpeg)|
+ ![](Direct%20comparison%20of%20data%20series.jpeg) ![](Anomaly%20index_final.jpeg)
 ## How to run
 * clone or dowload the files  and run in your terminal
 * don't forget to update the location of data files
