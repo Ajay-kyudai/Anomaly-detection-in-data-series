@@ -6,7 +6,7 @@ Anomaly in data series is detected by comparing the anomalous data series with r
 * Another example can be the ECG test in medical science to analyze proper heart functioning. For a healthy heart there is a definite ECG profile. But if any problem exists, some anomaly is observed in the profile. Depending upon the severity of anomaly, the physician can detect the  associated health issues.
 * In this project an alorithm ghas been devloped to detect such anomaly in a data series by comparing it with refence data series and calculating the anomaly index.
 ## Pictorial Explanation of the algorithm
-![](Description%20of%20algorithm_updated.jpg)
+![](Algoritm%20explanation.jpg)
 ## Reults
  ![](Direct%20comparison%20of%20data%20series.jpeg) ![](Anomaly%20index_final.jpeg)|
 ## How to run
